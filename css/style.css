@@ -180,7 +180,7 @@ h1,
   line-height: 1.15;
   font-weight: 700;
   text-transform: uppercase;
-  margin:0;
+  margin-top: 50px;
 }
 
 
@@ -1145,7 +1145,7 @@ a.fa:focus{
 
 
 .content{
-  padding-top: 142px; /* Header height */
+  padding-top: 100px; /* Header height */
 }
 
 .row-base{
@@ -1186,8 +1186,8 @@ a.fa:focus{
 }
 
 .section{
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 40px;
+  padding-bottom: 50px;
   overflow: hidden;
 }
 
@@ -1674,12 +1674,14 @@ a.fa:focus{
   opacity: 0;
   width: 0;
   margin-left: 0;
+  margin-top: 50px;
 }
 
 .slideshow .owl-item.active .title-border .title-frame{
   opacity: 1;
   width: 80%;
   margin-left: -40%;
+  margin-top: 50px;
 }
 
 .slideshow .owl-prev,
@@ -4227,6 +4229,11 @@ img.mfp-img{
 .footer h3{
   color: #989898;
 }
+.tel a:hover 
+{ 
+text-decoration: none;
+}
+
 
 .scroll-top{
   position: absolute;
@@ -4518,7 +4525,7 @@ border-color: #dda01f;
   }
 
   .title-border h1{
-    font-size: 66px;
+    font-size: 75px;
   }
 
 
