@@ -1153,7 +1153,7 @@ a.fa:focus{
 }
 
 .col-base{
-  margin-top: 30px;
+  margin-top: 5px;
 }
 
 .masked{
@@ -3045,15 +3045,16 @@ img.mfp-img{
 
 .price-body{
   color: #636363;
-  padding: 32px 17px 40px;
+  padding: 5px 12px 5px;
 }
 
 .price-features{
   margin:0;
+  text-align: left;
 }
 
 .price-features li{
-  padding:10px 0 10px;
+  padding:0px 0 0px;
   margin:0;
   border-top: 1px solid #e8e8e8;
 }
